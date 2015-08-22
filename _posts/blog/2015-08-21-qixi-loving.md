@@ -15,12 +15,8 @@ description: 不知不觉中，她已悄悄降临。
 
 
 
-
-
-
 ##我的女神
 看过这部电影后----[《缘分天注定》][sara]视频后，再也忘不了：
-
 <p style="text-align:center"><embed src="http://player.56.com/v_NDg1OTMxMDc.swf" quality="high" width="480" height="390" align="middle" allowScriptAccess="always" allownetworking="all" allowfullscreen="true" type="application/x-shockwave-flash" wmode="direct"></embed></p>
 
 ##冥冥中，一切都已注定。
